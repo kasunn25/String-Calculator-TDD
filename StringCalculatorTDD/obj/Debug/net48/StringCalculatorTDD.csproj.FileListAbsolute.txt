@@ -1,0 +1,9 @@
+C:\Users\11233\source\repos\StringCalculatorTDD\StringCalculatorTDD\bin\Debug\net48\StringCalculatorTDD.exe.config
+C:\Users\11233\source\repos\StringCalculatorTDD\StringCalculatorTDD\bin\Debug\net48\StringCalculatorTDD.exe
+C:\Users\11233\source\repos\StringCalculatorTDD\StringCalculatorTDD\bin\Debug\net48\StringCalculatorTDD.pdb
+C:\Users\11233\source\repos\StringCalculatorTDD\StringCalculatorTDD\obj\Debug\net48\StringCalculatorTDD.csprojAssemblyReference.cache
+C:\Users\11233\source\repos\StringCalculatorTDD\StringCalculatorTDD\obj\Debug\net48\StringCalculatorTDD.AssemblyInfoInputs.cache
+C:\Users\11233\source\repos\StringCalculatorTDD\StringCalculatorTDD\obj\Debug\net48\StringCalculatorTDD.AssemblyInfo.cs
+C:\Users\11233\source\repos\StringCalculatorTDD\StringCalculatorTDD\obj\Debug\net48\StringCalculatorTDD.csproj.CoreCompileInputs.cache
+C:\Users\11233\source\repos\StringCalculatorTDD\StringCalculatorTDD\obj\Debug\net48\StringCalculatorTDD.exe
+C:\Users\11233\source\repos\StringCalculatorTDD\StringCalculatorTDD\obj\Debug\net48\StringCalculatorTDD.pdb

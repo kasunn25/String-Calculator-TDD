@@ -1,0 +1,119 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\11233\\source\\repos\\StringCalculatorTDD\\StringCalculatorTDD.Tests\\StringCalculatorTDD.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\11233\\source\\repos\\StringCalculatorTDD\\StringCalculatorTDD.Tests\\StringCalculatorTDD.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\11233\\source\\repos\\StringCalculatorTDD\\StringCalculatorTDD.Tests\\StringCalculatorTDD.Tests.csproj",
+        "projectName": "StringCalculatorTDD.Tests",
+        "projectPath": "C:\\Users\\11233\\source\\repos\\StringCalculatorTDD\\StringCalculatorTDD.Tests\\StringCalculatorTDD.Tests.csproj",
+        "packagesPath": "C:\\Users\\11233\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\11233\\source\\repos\\StringCalculatorTDD\\StringCalculatorTDD.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\11233\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/NationsDigitalBank/23b15f06-113e-49a7-a0aa-870bdaa5ba58/_packaging/MsCommonModel/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\11233\\source\\repos\\StringCalculatorTDD\\StringCalculatorTDD\\StringCalculatorTDD.csproj": {
+                "projectPath": "C:\\Users\\11233\\source\\repos\\StringCalculatorTDD\\StringCalculatorTDD\\StringCalculatorTDD.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.0.2, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.extensibility.execution": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\11233\\source\\repos\\StringCalculatorTDD\\StringCalculatorTDD\\StringCalculatorTDD.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\11233\\source\\repos\\StringCalculatorTDD\\StringCalculatorTDD\\StringCalculatorTDD.csproj",
+        "projectName": "StringCalculatorTDD",
+        "projectPath": "C:\\Users\\11233\\source\\repos\\StringCalculatorTDD\\StringCalculatorTDD\\StringCalculatorTDD.csproj",
+        "packagesPath": "C:\\Users\\11233\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\11233\\source\\repos\\StringCalculatorTDD\\StringCalculatorTDD\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\11233\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://pkgs.dev.azure.com/NationsDigitalBank/23b15f06-113e-49a7-a0aa-870bdaa5ba58/_packaging/MsCommonModel/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
